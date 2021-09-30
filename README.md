@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @01eguer
 - 👀 I’m interested in coding and cybercecurity.
-- 🌱 I’m currently learning back-end development
+- 🌱 I’m currently learning pentesting and hacking
 - 📫 My discord: 01eguer#9575
 
 <!---
