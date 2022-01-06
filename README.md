@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oleguer
+- 👋 Hi, I’m 01eguer
 - 👀 I’m interested in coding, cybercecurity and Linux.
 - 🌱 I’m currently learning pentesting and hacking
 - 📫 My discord: 01eguer#9575
